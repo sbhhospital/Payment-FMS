@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/yt LOGO.jpg',
+        url: '/pLogo.png',
         type: 'image/svg+xml',
       },
     ],
